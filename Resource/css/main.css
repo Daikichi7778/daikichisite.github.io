@@ -1,0 +1,45 @@
+body{
+    font-family:'-apple-system-font';
+}
+.btn{
+    font-size:45px;
+   color:black;
+}
+.title{
+    font-size:50px;
+    color:rgb(61, 61, 61)78, 156;
+}
+.bar {
+    max-height:30 px;
+    height:40px;
+    background:#3333;
+}
+.barbtn{
+    color:black;
+    font-size:30px;
+}
+a.barbtn:hover{
+    background:paleturquoise;
+    transition-duration: 0.3s;
+    }
+    a.barbtn{
+        text-decoration: none;
+    }
+a.barbtn{
+    padding:2px;
+    margin:5px;
+    background:#47c00133;
+}
+.blog1{
+    padding:60px;
+    margin:50px;
+    background:rgb(74, 74, 74)
+}
+.blogtitle1{
+    font-size:80px;
+    background:white;
+}
+.blogtitle1:hover{
+    background:aquamarine;
+    transition-duration:0.7s;
+}
