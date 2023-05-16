@@ -1,0 +1,28 @@
+body{
+    font-family:'-apple-system-font';
+}
+.btn{
+    font-size:45px;
+    color:black;
+}
+.title{
+    font-size:50px;
+}
+.alert{
+    font-size:70px;
+    color:black;
+    background:palegreen;
+}
+.alert:hover{
+    background:white;
+    transition-duration:0.5s;
+}
+.bar {
+    max-height:30 px;
+    height:40px;
+    background:#3333;
+}
+.barbtn{
+    color:black;
+    font-size:30px;
+}
