@@ -10,8 +10,8 @@ body{
     color:rgb(61, 61, 61)78, 156;
 }
 .bar {
-    max-height:30 px;
-    height:40px;
+    max-height:40px;
+    height:50px;
     background:#3333;
 }
 .barbtn{
